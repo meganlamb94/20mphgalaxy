@@ -1,0 +1,105 @@
+/* @version 1.0 */
+
+body { background-position: left top; background-color: #ffffff; background-image: url(); background-repeat: repeat-x; color: #2b2b2b; padding: 0 0 20px 0; margin: 0; font-family: Verdana,Helvetica,Arial,sans-serif; font-size: 77%; line-height: 1.5; }
+a:link { background-color: transparent; color: #339; font-size: 1em; }
+a:visited { background-color: transparent; color: #003399; font-size: 1em; }
+.access_links { display: none; }
+a:hover { background-color: transparent; color: #003399; font-size: 1em; }
+a:active { background-color: transparent; color: #669; font-size: 1em; }
+.navheading a:active { color: #222; }
+.widget_link a:active { background-color: #F8F8F1; color: #222; padding: 2px 3px 2px 15px; margin: 0 0 2px; display: block; font-size: 1.1em; }
+p.widget_p a:active { color: #222; }
+#header h1 a:active { color: #222; }
+div#container { background-position: left 28px; background-image: url(https://www.edinburgh.gov.uk/images/cbt-container-2.png); background-repeat: repeat-y; padding: 0; width: 986px; }
+#header { background-position: left 0; background-color: transparent; background-repeat: no-repeat; padding: 0 32px; }
+#header h1 { color: #222; padding: 0; margin: 35px 0 0 0; display: none; font-size: 2.5em; }
+#header h1 a:visited #header h1 a:hover { color: #222; }
+#linksearch { padding-top: 5px; margin: 0; float: right; text-align: right; display: none; }
+#linksearch a { background-color: transparent; color: #222; font-size: 0.9em; }
+#site_search { clear: right; display: block; }
+#site_logo { margin: 0; display: none; }
+#identityWrapper { padding: 0; margin: 20px 0 0 240px; float: left; clear: left; }
+#mast_wrapper { background-position: left top; background-image: url(../images/20mph_Galaxy_masthead_920px__002_.gif); background-repeat: no-repeat; overflow: hidden; height: 150px; }
+#linksearch #searchSite { background-color: #F8F8F1; padding: 5px 4px 5px; border: 1px solid #d1d1d1; font-family: verdana,helvetica,arial,san-serif; font-size: 1.1em; vertical-align: bottom; width: 222px; height: 20px; }
+#linksearch form { margin-top: 30px; }
+#linksearch .button { padding-top: 4px; padding-bottom: 4px; font-weight: bold; vertical-align: bottom; height: 33px; }
+#header	br { display: none; }
+#navigation_widgets { display: none; }
+#section_navigation { background-position: left 0; background-color: transparent; background-repeat: repeat-x; padding-bottom: 25px; overflow: auto; margin-top: 13px; margin-bottom: 0px; float: none; display: block; line-height: normal; }
+#section_navigation ul { padding: 10px 10px 0 5px; margin: 0; margin-left: 229px; list-style: none; }
+#section_navigation li { padding: 0; margin: 0 2px 0 0; float: left; display: block; }
+#section_navigation a { background-position: left top; background-color: transparent; background-image: url(./tabs/v-left.gif); background-repeat: no-repeat; padding: 0 0 0 4px; border-bottom: 1px solid #b9b9b9; margin: 1px 0 0 0; float: left; text-decoration: none; }
+#section_navigation a span.slink { background-position: right top; background-color: transparent; background-image: url(./tabs/v-right.gif); background-repeat: no-repeat; color: #000; padding: 5px 15px 5px 11px; float: left; display: block; }
+#section_navigation a:hover { border-bottom: 1px solid #fff; }
+#content h2 { color: #2b2b2b; padding: 0 0 10px; margin: 10px 0; font-family: Trebuchet ms; font-size: 2.3em; font-weight: normal; line-height: 1.2; }
+#content h3 { color: #222; padding: 0; margin: 0 0 10px; font-family: Trebuchet ms; font-size: 1.5em; }
+#navbox h4 { padding: 0; margin: 0 0 10px; font-family: Trebuchet ms; font-size: 1.3em; }
+.categories_h { padding: 0; margin: 0 0 10px; font-family: Trebuchet ms; font-size: 1.3em; }
+div#content { color: #222; padding-right: 32px; font-size: 1em; width: 680px; }
+.view_page { display: none; }
+address { border-bottom: 1px solid #e1e0e0; margin-left: 0; }
+address p { padding: 0; margin: 0; }
+#navbox { background-position: right bottom; background-color: #F8F8F1; background-image: url(https://www.edinburgh.gov.uk/images/cbt-grad-2.jpg); background-repeat: no-repeat; padding: 10px; border: 1px solid #c8c8c8; margin: 20px 0; }
+.linkbox { padding: 0 0 10px; border-bottom: 1px solid #e1e0e0; margin: 0 0 10px; }
+#content .linkbox h3 { padding: 0; margin: 0; }
+div#navigation { padding-left: 17px; width: 232px; }
+div#extra { padding-left: 17px; width: 232px; }
+#searchSite2 { background-color: #fff; padding: 5px 4px 5px; border: 1px solid #d1d1d1; vertical-align: bottom; width: 142px; height: 20px; }
+.widget { background-color: #F8F8F1; padding: 0 12px 12px 0; margin: 0 0 15px 0; }
+.widget li { border-bottom: 1px solid #e9e9e9; margin: 0 0 0 0; list-style: none; }
+div p.widget_p { background-color: #F8F8F1; color: #222; padding: 2px 3px 2px 15px; margin: 0 0 2px; display: block; font-size: 0.9em; }
+.navheading { background-position: left center; background-color: #E30613; color: #FFFFFF; padding: 2px 0 2px 5px; font-family: "Trebuchet ms"; font-size: 1em; font-weight: strong; }
+div#footer { background-position: left bottom; background-color: #FFCC29; background-image: url(); background-repeat: no-repeat; color: #222; padding: 10px 32px 10px 269px; margin-top: 20px; font-size: 0.9em; text-align: left; width: auto; }
+#footer p { padding: 0; margin: 0 0 5px 0; }
+#footerLinks { display: none; }
+.footer_print { display: none; }
+#related { background-position: left bottom; background-image: url(https://www.edinburgh.gov.uk/images/cbt-grad.jpg); background-repeat: repeat-x; border: 1px solid #e0e0e0; clear: both; }
+.infobox { background-position: left bottom; background-image: url(https://www.edinburgh.gov.uk/images/cbt-grad.jpg); background-repeat: repeat-x; border: 1px solid #e0e0e0; }
+.newsimage { background-position: left bottom; background-image: url(https://www.edinburgh.gov.uk/images/cbt-grad.jpg); background-repeat: repeat-x; border: 1px solid #e0e0e0; }
+.cat_news img { background-position: left bottom; background-image: url(https://www.edinburgh.gov.uk/images/cbt-grad.jpg); background-repeat: repeat-x; border: 1px solid #e0e0e0; }
+.newsbox img { background-position: left bottom; background-image: url(https://www.edinburgh.gov.uk/images/cbt-grad.jpg); background-repeat: repeat-x; border: 1px solid #e0e0e0; }
+.rightcolumn img { background-position: left bottom; background-image: url(https://www.edinburgh.gov.uk/images/cbt-grad.jpg); background-repeat: repeat-x; border: 1px solid #e0e0e0; }
+.leftcolumn img { background-position: left bottom; background-image: url(https://www.edinburgh.gov.uk/images/cbt-grad.jpg); background-repeat: repeat-x; border: 1px solid #e0e0e0; }
+.contentimage { background-position: left bottom; background-image: url(https://www.edinburgh.gov.uk/images/cbt-grad.jpg); background-repeat: repeat-x; border: 1px solid #e0e0e0; }
+.documentimage { background-position: left bottom; background-image: url(https://www.edinburgh.gov.uk/images/cbt-grad.jpg); background-repeat: repeat-x; border: 1px solid #e0e0e0; }
+.locationmap { background-position: left bottom; background-image: url(https://www.edinburgh.gov.uk/images/cbt-grad.jpg); background-repeat: repeat-x; border: 1px solid #e0e0e0; }
+.feat_wrap { border-bottom: 1px solid #e0e0e0; }
+.download_wrap { border-bottom: 1px solid #e1e0e0; }
+.infobox_h { border-bottom: 1px solid #e1e0e0; }
+#categories_in { border-bottom: 1px solid #e1e0e0; }
+.cate_wrap { border-bottom: 1px solid #e1e0e0; }
+.cat_news { border-bottom: 1px solid #e1e0e0; }
+.newsbox { border-bottom: 1px solid #e1e0e0; }
+.news_wrap { border-bottom: 1px solid #e1e0e0; }
+.col_wrap { border-bottom: 1px solid #e1e0e0; }
+.contact_h { border-bottom: 1px solid #e1e0e0; }
+#bc { padding-bottom: 10px; border-bottom: 1px solid #e1e0e0; margin-bottom: 10px; display: none; }
+.cate_wrap li { padding: 0; margin: 0 0 0 15px; list-style: url(https://www.edinburgh.gov.uk/images/cbt-bullet.gif); }
+.info_on { overflow: auto; }
+#categories_in li { padding: 0; margin: 0 0 0 15px; list-style: url(https://www.edinburgh.gov.uk/images/cbt-bullet.gif); }
+.info_on li { padding: 0; margin: 0 0 0 15px; list-style: url(https://www.edinburgh.gov.uk/images/cbt-bullet.gif); }
+#contentlist li { list-style: url(https://www.edinburgh.gov.uk/images/cbt-bullet.gif); }
+.by_editor ul li { list-style: disc outside none; }
+.answer ul li { list-style: disc outside none; }
+.newsbox ul li { list-style: disc outside none; }
+#sitemap ul { background-position: 0px 9px; background-image: url(https://www.edinburgh.gov.uk/images/cbt-bullet.gif); background-repeat: no-repeat; margin-left: 8px; }
+.download_indent p { background-position: 0px 9px; background-image: url(https://www.edinburgh.gov.uk/images/cbt-bullet.gif); background-repeat: no-repeat; }
+.infobox p { background-position: 0px 4px; background-image: url(https://www.edinburgh.gov.uk/images/cbt-bullet.gif); background-repeat: no-repeat; padding-top: 0; }
+.cate_wrap p { background-position: 0px 8px; background-image: url(https://www.edinburgh.gov.uk/images/cbt-bullet.gif); background-repeat: no-repeat; }
+.button { background-position: center bottom; background-color: #c0aa78; background-image: url(https://www.edinburgh.gov.uk/images/cbt-btn-2.jpg); background-repeat: repeat-x; color: #ffffff; padding: 3px 8px; border: 1px solid #bfbfbf; margin: 0; text-transform: uppercase; font-family: Trebuchet ms; font-size: 1.2em; font-weight: normal; }
+.rightbutton { background-position: center bottom; background-color: #797979; background-image: url(https://www.edinburgh.gov.uk/images/cbt-btn-2.jpg); background-repeat: repeat-x; color: #ffffff; padding: 3px 8px; border: 1px solid #bfbfbf; margin: 0; text-transform: uppercase; float: none; font-family: Trebuchet ms; font-size: 1.2em; font-weight: normal; }
+.jform fieldset { background-color: #f7f7f7; border: 1px solid #d1d1d1; }
+.form_line { border: none; }
+input.jform { padding: 3px; border: 1px solid #d1d1d1; margin: 0; }
+textarea.jform { padding: 3px; border: 1px solid #d1d1d1; margin: 0; }
+.selectwidth { padding: 3px; border: 1px solid #d1d1d1; margin: 0; }
+.dropdownwidth { padding: 3px; border: 1px solid #d1d1d1; margin: 0; }
+.jform label { float: none; display: block; text-align: left; width: auto; }
+.widget_link a { background-position: left center; background-color: transparent; color: #222; padding: 0 0 0 0; font-size: 1em; }
+p.widget_p { background-position: left center; background-color: transparent; color: #222; padding: 0 0 0 0; margin: 0 0 0 0; font-size: 1em; }
+.widget_link { background-color: transparent; color: #222; padding: 0 0 0 0; font-size: 1em; }
+#content { color: #222; font-size: 1em; }
+#footer { color: #222; font-size: 0.9em; }
+.site_search { display: none; }
+#section_navigation a:hover span.slink { }
+#leftcolumn { border-top: none; border-right: none; border-bottom: none; border-left: none; }
